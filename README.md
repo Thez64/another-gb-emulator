@@ -1,2 +1,2 @@
 # another-gb-emulator
-Just a small Emulator Project to practice between semester
+Just a small Emulator Project to practice between university semesters
